@@ -90,6 +90,10 @@ Deletar um container
 ```
 docker rm <id>
 ```
+Deletar todos os containers
+```
+docker rm -f $(docker ps -a -q)
+```
 Deletar uma imagem
 ```
 docker rmi <id>
