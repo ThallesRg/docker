@@ -23,7 +23,7 @@ docker version
 #### Container
   - Conceito: é uma instância de uma imagem
   - Pode estar em execução ou parado
-  - Container é STATEFUL: mantém estado. Ele possui uma camada superior de escrita.
+  - Container é STATEFUL: mantém estado. 
 
 #### Registry
   - É um serviço que armazena imagens
